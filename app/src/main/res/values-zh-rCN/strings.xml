@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text.button.cancel">取消</string>
+    <string name="text.button.enable_capturer">启用</string>
+
+    <string name="text.label.capturer_disabled">已禁用 Toast 与通知监控</string>
+    <string name="text.label.capturer_enabled">已启用 Toast 与通知监控</string>
+
+    <string name="title.dialog.enable_capturer">启用 Toast 与通知监控</string>
+    <string name="text.dialog.enable_capturer">在无障碍设置中找到「Toast Capturer」服务并启用。</string>
+    <string name="text.button.open_accessibility">前往无障碍设置</string>
+
+    <string name="text.description.capturer_service">启用这一服务以监控指定应用的 Toast 与通知。</string>
+
+    <string name="notification">通知</string>
+</resources>

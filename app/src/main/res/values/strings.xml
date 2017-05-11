@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toast Capturer</string>
+
+    <string name="text.button.cancel">Cancel</string>
+    <string name="text.button.enable_capturer">Enable</string>
+
+    <string name="text.label.capturer_disabled">Toast &amp; notification capture disabled</string>
+    <string name="text.label.capturer_enabled">Toast &amp; notification capture enabled</string>
+
+    <string name="title.dialog.enable_capturer">Enable Toast &amp; Notification Capture</string>
+    <string name="text.dialog.enable_capturer">Please locate and enable "Toast Capturer" service from accessibility settings.</string>
+    <string name="text.button.open_accessibility">Open accessibility settings</string>
+
+    <string name="text.description.capturer_service">Enable this service to capture toasts and notifications from specific apps.</string>
+
+    <string name="toast">Toast</string>
+    <string name="notification">Notification</string>
+    <string name="delimiter">|</string>
+</resources>
